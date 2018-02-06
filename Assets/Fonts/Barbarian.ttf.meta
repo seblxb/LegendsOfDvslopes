@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a4a896593ff354c2e95f1aca461df887
+timeCreated: 1505542872
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barbarian
+  fontNames:
+  - Barbarian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
